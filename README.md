@@ -29,4 +29,4 @@
 - This project was guided by [this comprehensive analysis tutorial](https://www.example.com).
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@mrjoshuasamuel] - feel free to contact me!
